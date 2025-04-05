@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mark
 #### I am studying towards a career in software development.
-<img src="https://github.com/user-attachments/assets/e66b2b73-5b2a-4018-bf5b-c421d3d6b7e5" width="300" />
+<img src="https://github.com/user-attachments/assets/9666e119-fa7f-4069-9ceb-88949eb49d9d" width="800" height="400" />
 
 Software developer in training. Completed cs50 and cs50w. I am currently completing a bootcamp with CodeSpace.
 
